@@ -1,17 +1,26 @@
 Octoplate
 ===========
 
-Boilerplate for [Octopress](http://octopress.org) based on Twitter Bootstrap 3.
+Minimalist boilerplate/theme for [Octopress](http://octopress.org).
 
 Install
 -------
     $ cd octopress
-    $ git clone git://github.com/mjhea0/octoplate.git .themes/octoplate
-    $ rake install['octoplate']
+    $ git clone git://github.com/mjhea0/noLogo.git .themes/nologo
+    $ rake install['nolog']
     $ rake generate && rake preview
     $ rake deploy
     
-To do
------
+## Screenshots
 
-Fix the damn search
+### Main
+
+![main](https://raw.github.com/mjhea0/noLogo/master/main.png)
+
+### Archive
+
+![archive](https://raw.github.com/mjhea0/noLogo/master/archive.png)
+
+### About
+
+![about](https://raw.github.com/mjhea0/noLogo/master/about.png)
