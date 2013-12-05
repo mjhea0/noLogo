@@ -7,7 +7,7 @@ Install
 -------
     $ cd octopress
     $ git clone git://github.com/mjhea0/noLogo.git .themes/nologo
-    $ rake install['nolog']
+    $ rake install['nologo']
     $ rake generate && rake preview
     $ rake deploy
     
